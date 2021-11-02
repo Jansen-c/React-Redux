@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.400a6c7a.chunk.css",
+    "main.js": "/static/js/main.a699d52d.chunk.js",
+    "main.js.map": "/static/js/main.a699d52d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ca8bcccf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ca8bcccf.js.map",
+    "static/js/2.e0be4ead.chunk.js": "/static/js/2.e0be4ead.chunk.js",
+    "static/js/2.e0be4ead.chunk.js.map": "/static/js/2.e0be4ead.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.400a6c7a.chunk.css.map": "/static/css/main.400a6c7a.chunk.css.map",
+    "static/js/2.e0be4ead.chunk.js.LICENSE.txt": "/static/js/2.e0be4ead.chunk.js.LICENSE.txt",
+    "static/media/avocado.a5afbaac.jpg": "/static/media/avocado.a5afbaac.jpg",
+    "static/media/carrot.56348b5f.jpg": "/static/media/carrot.56348b5f.jpg",
+    "static/media/corn.59e4550c.jpg": "/static/media/corn.59e4550c.jpg",
+    "static/media/garlic.ec39457b.jpg": "/static/media/garlic.ec39457b.jpg",
+    "static/media/red-chili.cd18e68f.jpg": "/static/media/red-chili.cd18e68f.jpg",
+    "static/media/tomato.b17a5ed6.jpg": "/static/media/tomato.b17a5ed6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca8bcccf.js",
+    "static/js/2.e0be4ead.chunk.js",
+    "static/css/main.400a6c7a.chunk.css",
+    "static/js/main.a699d52d.chunk.js"
+  ]
+}
